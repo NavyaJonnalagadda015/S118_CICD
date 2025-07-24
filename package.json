@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://githubelan77.github.io/S219_CICD",
+  "homepage": "https://github.com/NavyaJonnalagadda015/118_DevOps1.git",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
