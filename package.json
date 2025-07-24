@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://github.com/NavyaJonnalagadda015/118_DevOps1.git",
+  "homepage": "https://github.com/NavyaJonnalagadda015/S118_CICD.git",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
